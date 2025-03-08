@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16380c057dd45984",
+        "id": "6b548a126ba32629",
         "type": "tabs",
         "children": [
           {
-            "id": "4211d3283e73059d",
+            "id": "c33b3a736edf23a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -172,8 +172,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0e45f5479905317",
+  "active": "c33b3a736edf23a3",
   "lastOpenFiles": [
+    "2 - Rough Notes/Idea for a File Manipulation Automation for Work.md",
+    "2 - Rough Notes/Startup or Project Idea (AutoEasePro).md",
+    "3 - Source Material/babypips.com.md",
+    "3 - Source Material/How to Take Smart Notes.md",
+    "1 - Zettelkasten/Startup Potential.md",
+    "1 - Zettelkasten/Typical Tech Stack for a Software Development Project.md",
+    "1 - Zettelkasten/App Features for a Possible Startup.md",
+    "4 - Tags/cars.md",
+    "1 - Zettelkasten/Next Steps for a Startup.md",
+    "1 - Zettelkasten/Software Project Development Roadmap.md",
+    "1 - Zettelkasten/AutoEasePro Project Idea.md",
+    "1 - Zettelkasten/Project Feasibility of a Startup.md",
+    "4 - Tags/investment.md",
+    "4 - Tags/marketing.md",
+    "4 - Tags/business.md",
+    "4 - Tags/ideas.md",
+    "4 - Tags/startup.md",
+    "4 - Tags/programming.md",
+    "4 - Tags/software development.md",
+    "4 - Tags/projects.md",
+    "5 - Template/Zettelkasten Template.md",
+    "1 - Zettelkasten/Zettelkasten.md",
+    "1 - Zettelkasten/Another Sample.md",
+    "1 - Zettelkasten/Sample Note.md",
+    "3 - Source Material",
+    "4 - Tags",
+    "2 - Rough Notes",
+    "5 - Template",
+    "1 - Zettelkasten",
     "Welcome.md"
   ]
 }

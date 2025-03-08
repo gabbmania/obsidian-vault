@@ -1,0 +1,1 @@
+Create an app that will handle file manipulation in FTP and local servers. This is to minimize errors due to repetitive and boring tasks at work that may cost the company a lot if it wasn't properly checked. And usually the output of a job isn't checked that much.
