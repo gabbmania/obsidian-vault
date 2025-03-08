@@ -4,9 +4,9 @@ State: #child
 
 Tags: [[projects]] [[cars]] [[ideas]] [[startup]]
 _____
-# App Features for a Possible Startup
+# App Features
 
-The features indicated here can be applicable to [[AutoEasePro Project Idea|AutoEasePro]]
+The features indicated here can be applicable to [[4 - Project Notes/AutoEasePro/Project Idea|AutoEasePro]]
 
 ### App Features
 
@@ -68,6 +68,6 @@ The features indicated here can be applicable to [[AutoEasePro Project Idea|Auto
 
 ### References
 
-[[AutoEasePro Project Idea]]
+[[4 - Project Notes/AutoEasePro/Project Idea]]
 
 [[Startup or Project Idea (AutoEasePro)]]

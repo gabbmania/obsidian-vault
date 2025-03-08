@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "section:(business)",
@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "section:(forex)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "section:(trading)",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8502830004171945,
-  "close": false
+  "scale": 0.522701787788744,
+  "close": true
 }

@@ -4,7 +4,7 @@ State: #child
 
 Tags: [[programming]] [[software development]] [[projects]]
 _____
-# Typical Tech Stack for a Software Development Project
+# Tech Stack
 
 ### Full Tech Stack
 ##### Backend

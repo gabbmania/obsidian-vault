@@ -4,7 +4,7 @@ State: #child
 
 Tags: [[startup]] [[projects]] [[software development]] [[ideas]] [[business]] [[marketing]] [[investment]] [[programming]]
 _____
-# Project Feasibility of a Startup
+# Project Feasibility
 
 1. Clear Problem-Solution Fit: Identified a real-world problem (inefficiencies in car servicing) and proposed a solution that addresses it directly.
 2. Scalable Architecture: The tech stack chosen (Python/Django for backend, ReactJS for frontend) is modern, scalable, and widely used, making it easier to resources.
@@ -19,8 +19,8 @@ Considerations:
 
 [[Startup Potential]]
 
+[[Project Feasibility]]
+
+[[App Features]]
+
 [[Startup or Project Idea (AutoEasePro)]]
-
-[[Project Feasibility of a Startup]]
-
-[[App Features for a Possible Startup]]

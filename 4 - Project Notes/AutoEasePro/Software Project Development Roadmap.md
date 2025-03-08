@@ -133,6 +133,6 @@ Tasks:
 
 ### References
 
-[[Startup or Project Idea (AutoEasePro)]]
+[[Tech Stack]]
 
-[[Typical Tech Stack for a Software Development Project]]
+[[Startup or Project Idea (AutoEasePro)]]

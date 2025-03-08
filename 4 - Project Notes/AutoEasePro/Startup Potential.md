@@ -2,7 +2,7 @@
 
 State: #child 
 
-Tags: [[startup]] [[projects]] [[ideas]]
+Tags: [[startup]] [[projects]] [[ideas]] [[marketing]]
 _____
 # Startup Potential
 
@@ -15,8 +15,8 @@ The startup potential depends on:
 
 ### References
 
-[[App Features for a Possible Startup]]
+[[App Features]]
 
-[[AutoEasePro Project Idea]]
+[[4 - Project Notes/AutoEasePro/Project Idea]]
 
 [[Startup or Project Idea (AutoEasePro)]]

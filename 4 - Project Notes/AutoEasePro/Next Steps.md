@@ -4,7 +4,7 @@ State: #child
 
 Tags: [[startup]] [[software development]] [[projects]] [[marketing]]
 _____
-# Next Steps for a Startup
+# Next Steps
 
 1. Market Research: Talk to service centers and customers to validate the idea.
 2. Wireframes and Design: Create wireframes for the app to visualize the user flow.
@@ -14,16 +14,16 @@ _____
 
 ### References
 
-[[AutoEasePro Project Idea]]
-
-[[Startup or Project Idea (AutoEasePro)]]
+[[4 - Project Notes/AutoEasePro/Project Idea]]
 
 [[Software Project Development Roadmap]]
 
-[[Typical Tech Stack for a Software Development Project]]
+[[Tech Stack]]
 
 [[Startup Potential]]
 
-[[Project Feasibility of a Startup]]
+[[Project Feasibility]]
 
-[[App Features for a Possible Startup]]
+[[App Features]]
+
+[[Startup or Project Idea (AutoEasePro)]]

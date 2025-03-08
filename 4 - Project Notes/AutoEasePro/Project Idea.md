@@ -4,7 +4,7 @@ State: #child
 
 Tags: [[cars]] [[projects]] [[startup]] [[ideas]]
 _____
-# AutoEasePro Project Idea
+# Project Idea
 
 **Catchphrase**
 	Smooth rides start with smooth service.
