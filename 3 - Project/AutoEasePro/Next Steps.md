@@ -14,7 +14,7 @@ _____
 
 ### References
 
-[[4 - Project Notes/AutoEasePro/Project Idea]]
+[[3 - Project/AutoEasePro/Project Idea]]
 
 [[Software Project Development Roadmap]]
 

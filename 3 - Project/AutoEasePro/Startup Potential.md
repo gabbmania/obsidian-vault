@@ -17,6 +17,6 @@ The startup potential depends on:
 
 [[App Features]]
 
-[[4 - Project Notes/AutoEasePro/Project Idea]]
+[[3 - Project/AutoEasePro/Project Idea]]
 
 [[Startup or Project Idea (AutoEasePro)]]

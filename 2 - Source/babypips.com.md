@@ -25,3 +25,5 @@ Fibonacci retracements is a trading strategy that uses the Fibonacci lines in a 
 It is best paired with support and resistance level where if a Fibonacci level coincides with a support or resistance then it can be a strong indication that a retracement is possible in that level. 
 
 It can also be used with a trend line. You can find your entry point if you plot your Fibonacci retracement tool and see that the Fib levels intersect with the trend line. That level can then be a possible entry for a trade that goes with the trend line.
+
+______________________

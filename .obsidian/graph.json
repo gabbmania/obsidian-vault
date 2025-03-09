@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "section:(mindset)",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "section:(self improvement)",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5554790375729189,
+  "scale": 0.5334068007154995,
   "close": true
 }

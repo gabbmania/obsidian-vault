@@ -10,7 +10,7 @@ Fibinacci Retracement came from a concept that was conceptualized by Leonardo Fi
 
 It is a trading strategy that takes the concept of retracement during a trend. During an uptrend, the price might retrace back down and then continue the trend afterwards. The Fibonacci retracement tool shows where this retracement can happen during an uptrend or downtrend. The retracement level is a good level to enter a trade.
 
-It is best paired with support and resistance, and trend lines so that you can determine the significance of the retracement levels. When a retracement level coincides with the support or resistance or trend lines then it can signify a very good entry for a trade.
+It is best paired with support and resistance, trend lines, and candlestick patterns so that you can determine the significance of the retracement levels. When a retracement level coincides with the support or resistance or trend lines then it can signify a very good entry for a trade.
 
 
 ### References
