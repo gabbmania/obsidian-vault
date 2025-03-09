@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca31988b403a291",
+        "id": "c1dcd34d180e16b5",
         "type": "tabs",
         "children": [
           {
-            "id": "c5596d2b04badd18",
+            "id": "05f9e70d9e7bdfd3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -172,8 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5596d2b04badd18",
+  "active": "d3d9404519049b46",
   "lastOpenFiles": [
+    "6 - Archives",
+    "3 - Source Notes/How to Take Smart Notes - Sönke Ahrens.md",
     "5 - Permanent Notes/Support and Resistance.md",
     "5 - Permanent Notes/Japanese Candlesticks.md",
     "5 - Permanent Notes/Fibonacci Retracement.md",
@@ -185,29 +187,28 @@
     "4 - Project Notes/AutoEasePro/Project Feasibility.md",
     "4 - Project Notes/AutoEasePro/Next Steps.md",
     "4 - Project Notes/AutoEasePro/App Features.md",
-    "3 - Source Notes/How to Take Smart Notes - Sönke Ahrens.md",
-    "3 - Source Notes/Archives/babypips.com.md",
-    "2 - Rough Notes/Archives/Startup or Project Idea (AutoEasePro).md",
-    "1 - Fleeting Notes/Archives/Idea for a File Manipulation Automation for Work.md",
+    "6 - Archives/babypips.com.md",
+    "6 - Archives/Startup or Project Idea (AutoEasePro).md",
+    "6 - Archives/Idea for a File Manipulation Automation for Work.md",
     "3 - Source Notes/Archives",
     "2 - Rough Notes/Archives",
     "1 - Fleeting Notes/Archives",
     "4 - Project Notes/FileMagiq",
-    "6 - Tags/trading.md",
-    "6 - Tags/forex.md",
+    "7 - Tags/trading.md",
+    "7 - Tags/forex.md",
     "4 - Project Notes/AutoEasePro",
     "5 - Permanent Notes",
     "1 - Fleeting Notes",
-    "6 - Tags/cars.md",
-    "6 - Tags/investment.md",
-    "6 - Tags/marketing.md",
-    "6 - Tags/business.md",
-    "6 - Tags/ideas.md",
-    "6 - Tags/startup.md",
-    "6 - Tags/programming.md",
-    "6 - Tags/software development.md",
+    "7 - Tags/cars.md",
+    "7 - Tags/investment.md",
+    "7 - Tags/marketing.md",
+    "7 - Tags/business.md",
+    "7 - Tags/ideas.md",
+    "7 - Tags/startup.md",
+    "7 - Tags/programming.md",
+    "7 - Tags/software development.md",
     "3 - Source Notes",
-    "6 - Tags",
+    "7 - Tags",
     "2 - Rough Notes"
   ]
 }
