@@ -27,3 +27,18 @@ It is best paired with support and resistance level where if a Fibonacci level c
 It can also be used with a trend line. You can find your entry point if you plot your Fibonacci retracement tool and see that the Fib levels intersect with the trend line. That level can then be a possible entry for a trade that goes with the trend line.
 
 ______________________
+Moving Average:
+	- smooth out price fluctuations to better see trend lines
+	- two types:
+		- simple
+			- susceptible to price spikes
+			- lag reaction to price movement
+		- exponential
+			- more weight to most recent periods
+			- quick to react to price movement
+	- two or more MAs can show trends
+	- MA crossovers can signify a start or end of a trend
+	- MAs can be used as dynamic support and resistance level
+	- MA envelops used for confirming trend or identifying overbought or oversold levels
+
+-----------------------

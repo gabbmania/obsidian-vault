@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f05f48f6e2dede",
+        "id": "33a28a3e91f6dd61",
         "type": "tabs",
         "children": [
           {
-            "id": "660de76aeecc85f2",
+            "id": "1137497eb6114d30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Tags/trading.md",
+                "file": "1 - Fleeting/Research more about SaaS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "trading"
+              "title": "Research more about SaaS"
             }
           }
         ]
@@ -186,34 +186,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3d9404519049b46",
+  "active": "1137497eb6114d30",
   "lastOpenFiles": [
+    "2 - Source/How to Take Smart Notes - Sonke Ahrens.md",
+    "2 - Source/babypips.com.md",
+    "1 - Fleeting/Research more about SaaS.md",
+    "1 - Fleeting/Research about AI agents.md",
+    "4 - Permanent/Moving Average.md",
+    "4 - Permanent/Be Mentally Flexible.md",
+    "tags.md",
+    "3 - Project/FileMagiq/Project Idea.md",
+    "3 - Project/AutoEasePro/Tech Stack.md",
+    "3 - Project/AutoEasePro/Startup Potential.md",
+    "3 - Project/AutoEasePro/Software Project Development Roadmap.md",
+    "3 - Project/AutoEasePro/Project Idea.md",
+    "3 - Project/AutoEasePro/Project Feasibility.md",
+    "3 - Project/AutoEasePro/Next Steps.md",
+    "3 - Project/AutoEasePro/App Features.md",
+    "4 - Permanent/Reduced decision making helps improve our focus for more important tasks.md",
+    "4 - Permanent/Writing something gets it out of our head.md",
+    "4 - Permanent/Meaningful connection to an idea makes it easier to remember.md",
+    "4 - Permanent/Intuition and expertise can be gained by systematic exposure to feedback loops and experience.md",
+    "5 - Archives/Startup or Project Idea (AutoEasePro).md",
+    "5 - Archives/Idea for a File Manipulation Automation for Work.md",
+    "6 - Tags/trading.md",
     "6 - Tags/startup.md",
     "6 - Tags/software development.md",
     "6 - Tags/self improvement.md",
     "6 - Tags/projects.md",
-    "6 - Tags/programming.md",
-    "6 - Tags/note taking.md",
-    "6 - Tags/mindset.md",
-    "6 - Tags/marketing.md",
-    "6 - Tags/investment.md",
-    "6 - Tags/ideas.md",
-    "6 - Tags/forex.md",
-    "6 - Tags/cars.md",
-    "6 - Tags/business.md",
-    "5 - Archives/Startup or Project Idea (AutoEasePro).md",
-    "5 - Archives/Idea for a File Manipulation Automation for Work.md",
-    "4 - Permanent/Types of Notes.md",
-    "4 - Permanent/Support and Resistance.md",
-    "4 - Permanent/Reliable Structure is Important.md",
-    "4 - Permanent/Reading and Taking Notes.md",
-    "4 - Permanent/Nobody Starts from Scratch.md",
-    "4 - Permanent/Multitasking is Not Good.md",
-    "4 - Permanent/Japanese Candlesticks.md",
-    "4 - Permanent/Growth Mindset is Crucial.md",
-    "4 - Permanent/Give Each Tasks Your Undivided Attention.md",
-    "4 - Permanent/Fibonacci Retracement.md",
-    "3 - Project/FileMagiq/Project Idea.md",
     "5 - Archives",
     "3 - Source Notes/Archives",
     "2 - Rough Notes/Archives",
